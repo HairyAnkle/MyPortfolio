@@ -597,7 +597,7 @@ export default function Portfolio() {
               },
               {
                 title: "DICT Hack4Gov 3 CTF Competition",
-                achievement: "5th Place in NCR Region",
+                achievement: "7th Place in NCR Region",
                 year: "2024",
                 description:
                   "Participated in a government-organized CTF competition focused on cybersecurity challenges relevant to public service and governance.",
